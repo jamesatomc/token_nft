@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/build" />
+      <excludeFolder url="file://$MODULE_DIR$/contracts/allowlist/build" />
+      <excludeFolder url="file://$MODULE_DIR$/contracts/authlist/build" />
+      <excludeFolder url="file://$MODULE_DIR$/contracts/critbit/build" />
+      <excludeFolder url="file://$MODULE_DIR$/contracts/kiosk/build" />
+      <excludeFolder url="file://$MODULE_DIR$/contracts/launchpad/build" />
+      <excludeFolder url="file://$MODULE_DIR$/contracts/liquidity_layer_v1/build" />
+      <excludeFolder url="file://$MODULE_DIR$/contracts/nft_protocol/build" />
+      <excludeFolder url="file://$MODULE_DIR$/contracts/originmate/build" />
+      <excludeFolder url="file://$MODULE_DIR$/contracts/permissions/build" />
+      <excludeFolder url="file://$MODULE_DIR$/contracts/pseudorandom/build" />
+      <excludeFolder url="file://$MODULE_DIR$/contracts/request/build" />
+      <excludeFolder url="file://$MODULE_DIR$/contracts/tests/build" />
+      <excludeFolder url="file://$MODULE_DIR$/contracts/utils/build" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
